@@ -4,7 +4,7 @@ This is created for an assignment given in an interview process
 
 ## Clone this repository 
 #### from the current folder :
-git clone [repo_link](git@github.com:Deshanch/assignment_interview.git)\
+git clone https://github.com/Deshanch/assignment_interview\
 cd assignment_interview
 
 ## Create virtual environment for this project

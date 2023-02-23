@@ -37,4 +37,4 @@ Download yolo7-tiny.pt to current folder \
 
 ## Finally run 
 
-python app.py \ 
+python app.py

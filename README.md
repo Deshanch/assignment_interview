@@ -25,11 +25,11 @@ Download yolo7-tiny.pt to current folder \
 ├── assignment_interview \
 │   ├── env \
 │   ├── templates \
-│   ├── yolov7
-│   ├── .gitignore
-│   ├── app.py
-│   ├── README.md
-│   ├── requirements.txt
-│   ├── traced_model.pt
-│   └── yolov7-tiny.pt
+│   ├── yolov7 \
+│   ├── .gitignore \
+│   ├── app.py \
+│   ├── README.md \
+│   ├── requirements.txt \
+│   ├── traced_model.pt \
+│   └── yolov7-tiny.pt \
 

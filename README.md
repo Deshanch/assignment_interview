@@ -20,23 +20,16 @@ pip install -r requirements.txt
 ## Setup Darknet python interface - YoloV7-tiny
 git clone https://github.com/WongKinYiu/yolov7.git \
 visit https://github.com/WongKinYiu/yolov7/releases \
-Download yolo7-tiny.pt to current folder (./assignment_interview/)
+Download yolo7-tiny.pt to current folder \
 
-├── app \
-│   ├── css
-│   │   ├── **/*.css
-│   ├── favicon.ico
-│   ├── images
-│   ├── index.html
-│   ├── js
-│   │   ├── **/*.js
-│   └── partials/template
-├── dist (or build)
-├── node_modules
-├── bower_components (if using bower)
-├── test
-├── Gruntfile.js/gulpfile.js
-├── README.md
-├── package.json
-├── bower.json (if using bower)
-└── .gitignore
+├── assignment_interview \
+│   ├── env \
+│   ├── templates \
+│   ├── yolov7
+│   ├── .gitignore
+│   ├── app.py
+│   ├── README.md
+│   ├── requirements.txt
+│   ├── traced_model.pt
+│   └── yolov7-tiny.pt
+

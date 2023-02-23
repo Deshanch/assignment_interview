@@ -35,3 +35,6 @@ Download yolo7-tiny.pt to current folder \
   ├── traced_model.pt \
   └── yolov7-tiny.pt
 
+## Finally run 
+
+python app.py \ 

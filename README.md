@@ -22,7 +22,7 @@ git clone https://github.com/WongKinYiu/yolov7.git \
 visit https://github.com/WongKinYiu/yolov7/releases \
 Download yolo7-tiny.pt to current folder (./assignment_interview/)
 
-├── app
+├── app \
 │   ├── css
 │   │   ├── **/*.css
 │   ├── favicon.ico

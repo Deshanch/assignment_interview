@@ -15,3 +15,8 @@ source env/bin/activate
 
 ## Install dependencies
 pip install -r requirements.txt
+
+## Setup Darknet python interface - YoloV7-tiny
+git clone https://github.com/WongKinYiu/yolov7.git
+
+

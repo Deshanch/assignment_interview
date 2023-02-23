@@ -21,7 +21,7 @@ pip install -r requirements.txt
 git clone https://github.com/WongKinYiu/yolov7.git \
 visit https://github.com/WongKinYiu/yolov7/releases \
 Under Assets, \
-Download yolo7-tiny.pt to current folder \
+Download yolo7-tiny.pt to current folder
 
 ## Folder structure looks like
 

@@ -5,7 +5,8 @@ This is created for an assignment given in an interview process
 ## Clone this repository 
 #### from the current folder :
 git clone https://github.com/Deshanch/assignment_interview \
-cd assignment_interview
+cd assignment_interview \
+From here you have to run following commands in assignment_interview 
 
 ## Create virtual environment for this project
 python3 -m pip --version \
@@ -17,6 +18,8 @@ source env/bin/activate
 pip install -r requirements.txt
 
 ## Setup Darknet python interface - YoloV7-tiny
-git clone https://github.com/WongKinYiu/yolov7.git
+git clone https://github.com/WongKinYiu/yolov7.git \
+visit https://github.com/WongKinYiu/yolov7/releases \
+Download yolo7-tiny.pt to current folder
 
 

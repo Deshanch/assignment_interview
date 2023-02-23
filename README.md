@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ## Setup Darknet python interface - YoloV7-tiny
 git clone https://github.com/WongKinYiu/yolov7.git \
 visit https://github.com/WongKinYiu/yolov7/releases \
-Under Assests, \
+Under Assets, \
 Download yolo7-tiny.pt to current folder \
 
 ## Folder structure looks like

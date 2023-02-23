@@ -1,0 +1,6 @@
+env/
+runs/
+uploads/
+yolov7/
+README.md
+*.pt
